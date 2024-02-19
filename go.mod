@@ -1,4 +1,4 @@
-module github.com/crypto-smoke/meshtastic-go
+module github.com/meshnet-gophers/meshtastic-go
 
 go 1.21
 
