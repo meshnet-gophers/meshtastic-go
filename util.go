@@ -1,7 +1,7 @@
 package meshtastic
 
 import (
-	pbuf "github.com/crypto-smoke/meshtastic-go/meshtastic"
+	pbuf "github.com/meshnet-gophers/meshtastic-go/meshtastic"
 )
 
 type Node struct {

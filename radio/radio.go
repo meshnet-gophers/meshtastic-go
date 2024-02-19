@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	generated "github.com/crypto-smoke/meshtastic-go/meshtastic"
+	generated "github.com/meshnet-gophers/meshtastic-go/meshtastic"
 	"google.golang.org/protobuf/proto"
 )
 

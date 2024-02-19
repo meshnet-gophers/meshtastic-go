@@ -2,7 +2,7 @@ package transport
 
 import (
 	"bytes"
-	pb "github.com/crypto-smoke/meshtastic-go/meshtastic"
+	pb "github.com/meshnet-gophers/meshtastic-go/meshtastic"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/sync/errgroup"
 	"google.golang.org/protobuf/proto"
