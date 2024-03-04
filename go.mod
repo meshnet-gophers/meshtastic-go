@@ -6,7 +6,7 @@ require (
 	github.com/charmbracelet/log v0.3.1
 	github.com/eclipse/paho.mqtt.golang v1.4.3
 	github.com/planetscale/vtprotobuf v0.6.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.bug.st/serial v1.6.2
 	golang.org/x/sync v0.6.0
 	google.golang.org/protobuf v1.32.0
