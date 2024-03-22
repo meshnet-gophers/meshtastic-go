@@ -3,10 +3,10 @@ module github.com/meshnet-gophers/meshtastic-go
 go 1.21
 
 require (
-	github.com/charmbracelet/log v0.3.1
+	github.com/charmbracelet/log v0.4.0
 	github.com/eclipse/paho.mqtt.golang v1.4.3
 	github.com/planetscale/vtprotobuf v0.6.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.bug.st/serial v1.6.2
 	golang.org/x/sync v0.6.0
 	google.golang.org/protobuf v1.32.0
@@ -14,7 +14,7 @@ require (
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/charmbracelet/lipgloss v0.9.1 // indirect
+	github.com/charmbracelet/lipgloss v0.10.0 // indirect
 	github.com/creack/goselect v0.1.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
